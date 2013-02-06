@@ -3,6 +3,7 @@
 	<name>PageIndicator</name>
 	<comment></comment>
 	<projects>
+		<project>Compatibility</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
